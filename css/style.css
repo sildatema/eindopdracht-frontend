@@ -177,6 +177,7 @@ form{
     max-width: 50vw;
     padding-bottom:50px;
     padding-top:20px;
+    /*werkt niet op gepushedde site via git hub, wel in eigen launch?*/
 }
 
 .voornaam{
