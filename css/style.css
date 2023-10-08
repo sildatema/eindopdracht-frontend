@@ -175,7 +175,8 @@ form{
     flex-direction: column;
     margin:0 auto;
     max-width: 50vw;
-    padding-bottom:50px
+    padding-bottom:50px;
+    padding-top:20px;
 }
 
 .voornaam{
